@@ -1,13 +1,3 @@
-# Hangman Game Implementation -- Midterm Project
-# By: [Thessa Monica Abellana]
-# ID Number: [210037]
-# Date Completed: [March 13, 2023]
-
-# Certification of Authorship:
-# I certify that this project is my own work and I have not copied or shared my code with anyone.
-# Name: [Monica Abellana]
-# Signature: [Your Signature]
-
 import random
 
 
